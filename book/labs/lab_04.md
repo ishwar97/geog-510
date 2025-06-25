@@ -13,7 +13,7 @@ kernelspec:
 
 # Lab 4
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/https://github.com/ishwar97/geog-510/blob/main/book/labs/lab_04.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ishwar97/geog-510/blob/main/book/labs/lab_04.ipynb)
 
 +++
 
